@@ -1,0 +1,18 @@
+{
+  "title": "Morast",
+  "name": "morastaddon",
+  "version": "0.1.4",
+  "description": "An Addon to insert a \"Add to Morast\" button on distributer sites.",
+  "main": "index.js",
+  "author": "Lisa Austen",
+  "16": "ressource://@morastaddon/data/images/icon16.png",
+  "32": "ressource://@morastaddon/data/images/icon32.png",
+  "64": "ressource://@morastaddon/data/images/icon64.png",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1" },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
